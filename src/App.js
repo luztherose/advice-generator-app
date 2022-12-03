@@ -1,11 +1,11 @@
 import React from "react";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 const App = () => {
   return (
     <div>
       <main>
-        <h1>Work In Progress...</h1>
+        <h1 className="border">Work In Progress...</h1>
       </main>
       <Footer />
     </div>
